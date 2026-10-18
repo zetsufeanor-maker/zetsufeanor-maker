@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zetsufeanor-maker/zetsufeanor-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ SİBER GÜVENLİK · ÖĞRENME GÜNLÜĞÜ
 
-Here are some ideas to get you started:
+`WEB GÜVENLİĞİ` · `PYTHON` · `GIT / GITHUB`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### `$ whoami`
+
+Siber güvenlik alanında öğrenmeye yeni başladım. Bu profilde öğrenme sürecimi ve zaman içindeki ilerlememi paylaşacağım.
+
+### 🧭 Öğrenme rotam
+
+| Alan | Şu anki aşamam |
+|---|---|
+| 🌐 Web güvenliği | Temel kavramları öğreniyorum; uygulamalı deneyimim başlangıç düzeyinde. |
+| 🐍 Python | Basit kodları okuyabiliyorum; kod yazma ve hata düzeltme çalışmalarında desteğe ihtiyaç duyuyorum. |
+| 🌱 Git ve GitHub | Sürüm kontrolünü ve profilimi kullanmayı öğreniyorum. |
+| 📝 Teknik notlar | Komutları, hataları ve sonuçları kaydedebiliyorum; düzenli rapor hazırlama deneyimim yok. |
+
+### 🔬 Çalışma yaklaşımım
+
+Yalnızca kendi ekipmanımda veya açıkça izin verilmiş eğitim ortamlarında çalışıyorum. Her notta amacı, gözlemleri, sonuçları ve sonraki adımları kaydetmeye çalışıyorum.
+
+---
+
+<div align="center">
+
+`LEARNING IN PROGRESS` · Güvenli öğrenme, küçük adımlarla.
+
+</div>
