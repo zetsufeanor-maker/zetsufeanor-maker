@@ -1,3 +1,5 @@
+![Abstract silver crystal landscape banner](silver-crystal-banner.png)
+
 <div align="center">
 
 # 🛡️ SİBER GÜVENLİK · ÖĞRENME GÜNLÜĞÜ
